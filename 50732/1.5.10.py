@@ -1,4 +1,4 @@
-#Task: Ghostly introductory numbers (hours, minutes)
+#Task: Mirror introductory numbers (hours, minutes)
 # so that they were mirrored on the dial of wall clocks
 
 # Example:

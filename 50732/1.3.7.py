@@ -1,0 +1,5 @@
+a = input()
+print(f'{a}   {a}')
+print(f'{a}{a} {a}{a}')
+print(f' {a}{a}{a}')
+print(f'{a} {a} {a}')

@@ -1,0 +1,12 @@
+Укажите недопустимые имена переменных:
+
+а) Lambda
+б) lambda
+в) 2ambda
+г) labmda
+д) LaMbDa
+е) LAMBDA
+ё) Гambda
+ж) l8ambda
+
+Ответ: б, в

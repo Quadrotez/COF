@@ -14,4 +14,4 @@ print((('*' + ('-') * cell) * cells + '*\n') + ((('|' + (' ' * cell)) * cells + 
                 ('|' + (' ' * cell)) * cells + '|\n') * row) * (rows - 1) + ('*' + ('-') * cell) + (
                   '*' + ('-') * cell) * (cells - 1) + '*')
 
-input()  # - This input is needed so that the program does not close
+

@@ -1,0 +1,1 @@
+[print(i, end=' ') for i in sorted(set(map(str, input().split())))]

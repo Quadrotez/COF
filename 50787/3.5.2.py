@@ -1,0 +1,1 @@
+print(list(sorted(set([i.upper() for i in ''.join(filter(lambda x: x.isalpha() and x.isascii(), input()))]))))

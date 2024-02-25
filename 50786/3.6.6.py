@@ -1,0 +1,1 @@
+print(dict(sorted({i: len(i) for i in input().split()}.items())))

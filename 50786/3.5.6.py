@@ -1,0 +1,1 @@
+print(sorted(set(input()) - {'A', 'E', 'I', 'O', 'U'}))

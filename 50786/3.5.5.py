@@ -1,0 +1,6 @@
+x = set(input())
+y = set(input())
+print(sorted(x.union(y)))
+print(sorted(x.intersection(y)))
+print(sorted(x.difference(y)))
+print(sorted(x.symmetric_difference(y)))

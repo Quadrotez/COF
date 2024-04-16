@@ -1,0 +1,1 @@
+func = lambda n: 1 if n == 0 else n * func(n - 1)

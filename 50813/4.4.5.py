@@ -1,0 +1,2 @@
+def voice(s: str):
+    return ' '.join(s.lower().split(' ')[1:]) if s.split(' ')[0].lower() == 'whisper' else (' '.join(s.upper().split(' ')[1:]) if s.split(' ')[0].lower() == 'shout' else (' '.join(s.split(' ')[1:]).capitalize() if s.split(' ')[0].lower() == 'greet' else s))

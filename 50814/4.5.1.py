@@ -1,0 +1,1 @@
+print(list(map(int, [i for i in input() if i != '0'])))

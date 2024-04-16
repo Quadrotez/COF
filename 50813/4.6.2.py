@@ -1,0 +1,1 @@
+lambda s: s.lower().capitalize()

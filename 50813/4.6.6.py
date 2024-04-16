@@ -1,0 +1,1 @@
+lambda *args:sum(args)

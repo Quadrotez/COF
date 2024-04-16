@@ -1,0 +1,2 @@
+from functools import reduce
+print((lambda s: (251 - 2*reduce(lambda x, y: (abs(x if x > 0 else 0)+abs(y if y > 0 else 0)), s)) if (251 - 2*reduce(lambda x, y: (abs(x if x > 0 else 0)+abs(y if y > 0 else 0)), s)) > 0 else 0)(list(map(int, input().split(' ')))))

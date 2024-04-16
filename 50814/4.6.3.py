@@ -1,0 +1,1 @@
+lambda x: 'да' if x%3 == 0 else 'нет'

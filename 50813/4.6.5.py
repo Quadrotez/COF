@@ -1,0 +1,1 @@
+lambda x: sum(x)
